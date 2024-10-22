@@ -9,8 +9,8 @@ This is the place focused on developing detailed specifications and prototyping 
 - **Processor.** Recommendations for ARM-based processors suitable for educational tasks.
 - **Memory.** Optimal RAM configurations for efficient multitasking and performance.
 - **Storage.** Suitable storage solutions (e.g., eMMC, SD cards) to ensure sufficient space for educational applications and data.
-- **Display.** Specifications for high-resolution touchscreens that support stylus input.
-- **Battery/.** Guidelines for selecting durable, long-lasting batteries that support extended use.
+- **Display.** Specifications for high-resolution and affordable touchscreens that support stylus input. 4096 levels of sensitivity to pressure is likely unnecessary.
+- **Battery.** Durable, long-lasting cylindrical batteries.
 
 ### Rapid Prototyping Using Off-the-Shelf Components
 _The Interim Dybo_
@@ -18,10 +18,10 @@ _The Interim Dybo_
 Utilize readily available components to create an interim Dybo prototype. This will allow for quick testing and iteration of designs before finalizing specifications.
 
 - **Modular Design.** Create a modular prototype using popular components, such as:
- - Raspberry Pi as the core processing unit.
- - Standard touchscreen displays from manufacturers like Adafruit or SparkFun.
- - Off-the-shelf stylus pens compatible with capacitive touchscreens.
- - Battery packs from electronics suppliers for testing power management and longevity.
+  - Raspberry Pi as the core processing unit.
+  - Standard touchscreen displays from manufacturers like Adafruit or SparkFun.
+  - Off-the-shelf stylus pens compatible with capacitive touchscreens.
+  - Battery packs from electronics suppliers for testing power management and longevity.
 - **Integration Testing.** Conduct integration tests with DyboOS to assess the compatibility and performance of the prototype in real educational scenarios.
 
 
