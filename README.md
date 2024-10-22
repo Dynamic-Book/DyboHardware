@@ -17,9 +17,9 @@ _The Interim Dybo_
 
 Utilize readily available components to create an interim Dybo prototype. This will allow for quick testing and iteration of designs before finalizing specifications.
 
-- **Modular Design.** Create a modular prototype using popular components, such as:
+- **Modular Design.** Create a modular prototype using existing components, such as:
   - Raspberry Pi as the core processing unit.
-  - Standard touchscreen displays from manufacturers like Adafruit or SparkFun.
+  - Standard touchscreen displays.
   - Off-the-shelf stylus pens compatible with capacitive touchscreens.
   - Battery packs from electronics suppliers for testing power management and longevity.
 - **Integration Testing.** Conduct integration tests with DyboOS to assess the compatibility and performance of the prototype in real educational scenarios.
